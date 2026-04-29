@@ -40,7 +40,7 @@ Issue & Delay Metrics
 - Certain customers show consistently higher delivery issues.
 - Overall performance is close to target but requires improvement in delivery timeliness.
 
-##**Conclusion**
+## **Conclusion**
 Improving delivery timeliness and reducing delays can significantly enhance overall supply chain performance. This can be achieved by optimizing delivery routes, improving coordination between warehouses and logistics teams, and closely monitoring high-delay customers and regions. Additionally, implementing better demand forecasting and inventory planning can help reduce partial and delayed deliveries.
 
 
