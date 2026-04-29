@@ -30,7 +30,7 @@ Service Level Metrics
 
 Issue & Delay Metrics
 - Delivery Issue %
-- Late Delivery %
+- Total Late Deliveries
 - Not Delivered %
 - Average Days Delayed
 
