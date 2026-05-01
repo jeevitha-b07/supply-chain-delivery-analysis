@@ -1,4 +1,4 @@
-# **Supply Chain Delivery Performance Analysis**
+# **AtliQ Mart Supply Chain Analysis**
 
 ## **Supply Chain Management**
 
@@ -69,7 +69,7 @@ Issue & Delay Metrics
 ### Delivery Insights
 ![Delivery Insights](screenshots/delivery-insights.png)
 
-**Power BI Dashboard:** 
+## ***Power BI Dashboard:** 
 [supply_chain_dashboard.pbix](dashboard/supply_chain_dashboard.pbix)
 
 ## Key Insights
