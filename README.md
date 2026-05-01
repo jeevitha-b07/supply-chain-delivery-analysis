@@ -13,7 +13,7 @@ To address this problem, the supply chain team aims to monitor and improve deliv
 - **Excel** – Data cleaning 
 - **Power BI** – Dashboard creation and visualization  
 - **DAX** – Calculated measures and KPIs
--  
+  
 ## AtliQ Mart Supply Chain Dataset
 
 This dataset was taken from Kaggle and is used for analyzing delivery performance in a supply chain system. The data helps measure key metrics like On-Time Delivery, In-Full Delivery, and OTIF performance across customers, products, and orders.
