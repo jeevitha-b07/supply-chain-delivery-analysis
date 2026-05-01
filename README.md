@@ -12,10 +12,38 @@ To address this problem, the supply chain team aims to monitor and improve deliv
 ## Tools Used
 - **Excel** – Data cleaning 
 - **Power BI** – Dashboard creation and visualization  
-- **DAX** – Calculated measures and KPIs  
+- **DAX** – Calculated measures and KPIs
+-  
+## AtliQ Mart Supply Chain Dataset
 
-## Dataset Source
-  Dataset provided by CloudyML for learning and project purposes.
+This dataset was taken from Kaggle and is used for analyzing delivery performance in a supply chain system. The data helps measure key metrics like On-Time Delivery, In-Full Delivery, and OTIF performance across customers, products, and orders.
+
+### Columns:
+
+- **order_id** → Unique identifier for each order  
+- **customer_id** → Unique ID of the customer placing the order  
+- **order_placement_date** → Date when the order was placed  
+- **agreed_delivery_date** → Promised delivery date given to the customer  
+- **actual_delivery_date** → Actual delivery date of the order  
+- **order_qty** → Quantity ordered by the customer  
+- **delivery_qty** → Quantity actually delivered  
+- **on_time** → Indicates whether delivery was on or before agreed date (1 = Yes, 0 = No)  
+- **in_full** → Indicates whether full quantity was delivered (1 = Yes, 0 = No)  
+- **otif** → On-Time In-Full indicator (1 = Yes, 0 = No)  
+- **product_id** → Unique identifier for each product  
+- **In_Full** → Full delivery indicator (1 = Yes, 0 = No)  
+- **On_Time** → On-time delivery indicator (1 = Yes, 0 = No)  
+- **On_Time_In_Full** → Combined on-time and full delivery indicator (1 = Yes, 0 = No)  
+- **ontime_target%** → Target percentage for on-time delivery  
+- **infull_target%** → Target percentage for full delivery  
+- **otif_target%** → Target percentage for on-time in-full delivery  
+- **product_name** → Name of the product  
+- **category** → Product category  
+- **customer_name** → Name of the customer  
+- **city** → Customer city  
+- **date** → Calendar date  
+- **mmm_yy** → Month-Year format  
+- **week_no** → Week number of the year
 
 ## Key Performance Indicators (KPIs)
 Delivery Performance Metrics
@@ -32,6 +60,14 @@ Issue & Delay Metrics
 - Total Late Deliveries
 - Not Delivered %
 - Average Days Delayed
+
+## Dashboard Screenshots
+
+### Supply Chain Overview
+![Supply Chain Overview](screenshots/supply-chain-overview.png)
+
+### Delivery Insights
+![Delivery Insights](screenshots/delivery-insights.png)
 
 ## Key Insights
 
