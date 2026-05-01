@@ -70,7 +70,7 @@ Issue & Delay Metrics
 ![Delivery Insights](screenshots/delivery-insights.png)
 
 **Power BI Dashboard:** 
-[supply-chain-dashboard.pbix](dashboard/supply-chain-dashboard.pbix)
+[supply_chain_dashboard.pbix](dashboard/supply_chain_dashboard.pbix)
 
 ## Key Insights
 
