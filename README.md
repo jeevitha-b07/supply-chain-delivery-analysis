@@ -69,6 +69,9 @@ Issue & Delay Metrics
 ### Delivery Insights
 ![Delivery Insights](screenshots/delivery-insights.png)
 
+**Power BI Dashboard:** 
+[supply-chain-dashboard.pbix](dashboard/supply-chain-dashboard.pbix)
+
 ## Key Insights
 
 - OTIF performance is below target, indicating inefficiencies in delivery operations.
